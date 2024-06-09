@@ -1,0 +1,7 @@
+﻿  DS Theory Project.cpp
+F:\DS Theory Project\DS Theory Project\court.h(139,7): warning C4101: 'i': unreferenced local variable
+F:\DS Theory Project\DS Theory Project\DS Theory Project.cpp(11,23): warning C4101: 'opt4': unreferenced local variable
+F:\DS Theory Project\DS Theory Project\functions.h(123): warning C4715: 'admin_sign_in': not all control paths return a value
+F:\DS Theory Project\DS Theory Project\functions.h(148): warning C4715: 'owner_sign_in': not all control paths return a value
+F:\DS Theory Project\DS Theory Project\functions.h(98): warning C4715: 'user_sign_in': not all control paths return a value
+  DS Theory Project.vcxproj -> F:\DS Theory Project\DS Theory Project\x64\Debug\DS Theory Project.exe
